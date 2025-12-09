@@ -1,0 +1,10 @@
+- srikar joined the chat!
+- karthik joined the chat!
+[karthik]: hi
+[srikar]: hi
+- srikar joined the chat!
+- karthik joined the chat!
+[karthik]: hi
+[srikar]: hi
+* karthik left the chat.
+* srikar left the chat.
